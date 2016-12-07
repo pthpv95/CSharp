@@ -10,3 +10,6 @@ D:\project hien\cSharp\cSharp\obj\Debug\cSharp.pdb
 D:\project hien\cSharp\cSharp\bin\Debug\cSharp.exe
 D:\project hien\cSharp\cSharp\bin\Debug\cSharp.pdb
 D:\project hien\cSharp\cSharp\obj\Debug\cSharp.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Documents\CSharp\cSharp\cSharp\bin\Debug\cSharp.exe.config
+C:\Users\MyPC\Documents\CSharp\cSharp\cSharp\obj\Debug\cSharp.exe
+C:\Users\MyPC\Documents\CSharp\cSharp\cSharp\obj\Debug\cSharp.pdb
