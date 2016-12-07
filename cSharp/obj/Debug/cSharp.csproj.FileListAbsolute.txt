@@ -4,3 +4,9 @@ c:\users\mypc\documents\visual studio 2015\Projects\cSharp\cSharp\bin\Debug\cSha
 c:\users\mypc\documents\visual studio 2015\Projects\cSharp\cSharp\obj\Debug\cSharp.csprojResolveAssemblyReference.cache
 c:\users\mypc\documents\visual studio 2015\Projects\cSharp\cSharp\obj\Debug\cSharp.exe
 c:\users\mypc\documents\visual studio 2015\Projects\cSharp\cSharp\obj\Debug\cSharp.pdb
+D:\project hien\cSharp\cSharp\bin\Debug\cSharp.exe.config
+D:\project hien\cSharp\cSharp\obj\Debug\cSharp.exe
+D:\project hien\cSharp\cSharp\obj\Debug\cSharp.pdb
+D:\project hien\cSharp\cSharp\bin\Debug\cSharp.exe
+D:\project hien\cSharp\cSharp\bin\Debug\cSharp.pdb
+D:\project hien\cSharp\cSharp\obj\Debug\cSharp.csprojResolveAssemblyReference.cache
